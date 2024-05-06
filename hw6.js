@@ -2,8 +2,6 @@
 var film = "Володар Перснів";
 var genre = "Фентезі";
 var year = 2001;
-const result = film + genre + year;
-console.log(result);
 
 var message1 = film +  + genre + year;
 console.log(result);
