@@ -1,6 +1,6 @@
 // 1.Конкатенація рядків:
-var film = "Володар Перснів";
-var genre = "Фентезі";
+var film = "Володар Перснів ";
+var genre = "Фентезі ";
 var year = 2001;
 
 var message1 = film + genre + year;
