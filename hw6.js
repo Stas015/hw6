@@ -36,5 +36,5 @@ console.log(result); // cонце світить яскраво
 console.log(phrase);
 
 let phrase = "Сонце світить яскраво";
-let newPhrase = phrase.replace("Сонце", "Місяць");
-console.log(newPhrase); // Місяць світить яскраво
+let newPhrase = phrase.replace("cонце", "місяць");
+console.log(newPhrase); // місяць світить яскраво
